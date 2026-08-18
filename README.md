@@ -1,14 +1,14 @@
-# Fiscal Solutions Community Day — Pravni dokumenti
+# Fiscal Solutions Community Day — Legal Documents
 
-Ovaj repozitorij sadrži pravne dokumente za mobilnu aplikaciju **Community Day Companion**, koja se koristi za podršku učesnicima na Fiscal Solutions Community Day eventu (agenda, obavijesti, konzultacije, vodič kroz venue i slično).
+This repository contains the legal documents for the **Community Day Companion** mobile app, used to support attendees of the Fiscal Solutions Community Day event (agenda, notifications, consultations, venue guidance, and similar features).
 
-## Sadržaj
+## Contents
 
-- [`privacy-policy.html`](./privacy-policy.html) — Politika privatnosti: objašnjava koje se osobne podatke prikupljaju, u koje svrhe se koriste, koliko dugo se čuvaju i koja prava ima korisnik aplikacije.
-- [`terms.html`](./terms.html) — Uvjeti korištenja: definiraju pravila korištenja aplikacije, odgovornosti korisnika i organizatora, te ograničenja vezana uz sadržaj i funkcionalnosti.
+- [`privacy-policy.html`](./privacy-policy.html) — Privacy Policy: explains what personal data is collected, how it's used, how long it's retained, and what rights app users have.
+- [`terms.html`](./terms.html) — Terms and Conditions: define the rules for using the app, the responsibilities of users and organizers, and limitations on content and functionality.
 
-Oba dokumenta su verzija **1.0**, status **Final**, s datumom stupanja na snagu **18.08.2026.**
+Both documents are version **1.0**, status **Final**, with an effective date of **2026-08-18**.
 
-## Napomena
+## Note
 
-Dokumenti su pisani kao samostalne HTML stranice (bez vanjskih ovisnosti) tako da se mogu direktno prikazati unutar aplikacije (npr. kroz WebView) ili poslužiti kao statične stranice.
+The documents are written as self-contained HTML pages (no external dependencies), so they can be rendered directly inside the app (e.g. via a WebView) or served as static pages.
